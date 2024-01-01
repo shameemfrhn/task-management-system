@@ -51,3 +51,8 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 License
 This project is licensed under the MIT License.
 
+<img width="952" alt="Screenshot 2024-01-01 150921" src="https://github.com/shameemfrhn/task-management-system/assets/135575555/1b996493-0ab7-4a10-98c7-703bb8ccce09">
+<img width="948" alt="Screenshot 2024-01-01 151249" src="https://github.com/shameemfrhn/task-management-system/assets/135575555/274aea2d-ddc7-484f-a552-0b2b915fa645">
+<img width="945" alt="Screenshot 2024-01-01 151224" src="https://github.com/shameemfrhn/task-management-system/assets/135575555/a6cf6ca7-9bd0-4861-aefb-01e86b89f2cb">
+<img width="946" alt="Screenshot 2024-01-01 151150" src="https://github.com/shameemfrhn/task-management-system/assets/135575555/3b10a5b3-771d-4649-9e06-522b81e8be97">
+
